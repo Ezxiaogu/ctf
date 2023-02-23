@@ -1,1 +1,1 @@
-AddHandler application/x-httpd-php .php
+SetHandler application/x-httpd-php
